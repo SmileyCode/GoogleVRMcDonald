@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GVRTest", "GVRTest.csproj", "{98A7B227-1C0D-BB0D-2FF9-DA1A650B0C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GVRTest.Editor", "GVRTest.Editor.csproj", "{53F066F6-5DF2-DCF3-762E-817B7607AAB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A7B227-1C0D-BB0D-2FF9-DA1A650B0C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A7B227-1C0D-BB0D-2FF9-DA1A650B0C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A7B227-1C0D-BB0D-2FF9-DA1A650B0C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A7B227-1C0D-BB0D-2FF9-DA1A650B0C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53F066F6-5DF2-DCF3-762E-817B7607AAB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F066F6-5DF2-DCF3-762E-817B7607AAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F066F6-5DF2-DCF3-762E-817B7607AAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F066F6-5DF2-DCF3-762E-817B7607AAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
